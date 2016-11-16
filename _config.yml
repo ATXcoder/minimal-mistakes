@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "My Site"
 title_separator          : "-"
-name                     : "Thomas"
+name                     : "Thomas Sloan"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Thomas Sloan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Texas"
   email            :
   uri              :
   bitbucket        :
@@ -89,8 +89,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
-  google_plus      :
+  github           : "https://github.com/ATXcoder"
+  google_plus      : "https://plus.google.com/+ThomasSloan"
   keybase          :
   instagram        :
   lastfm           :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/thomassloan"
   vine             :
   weibo            :
   xing             :

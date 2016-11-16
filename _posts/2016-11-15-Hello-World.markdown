@@ -1,6 +1,6 @@
 ---
 title:  "The Standard 'Hello World' Post"
-date:   2016-11-14 14:41:54 -0600
+date:   2016-11-15 22:38:00 -0600
 categories: post
 ---
 

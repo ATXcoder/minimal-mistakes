@@ -13,7 +13,7 @@ name                     : "Thomas Sloan"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : atxcoder/atxcoder.github.io
+repository               : "atxcoder/atxcoder.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Thomas Sloan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "/assets/img/avatar.jpg"
+  bio              : "SharePoint Farm Admin, Web Developer, DIYer / Maker, IoT builder, and a all around 'Geeky Dad'"
   location         : "Texas"
   email            :
   uri              :
@@ -233,7 +233,7 @@ compress_html:
 
 # Defaults
 defaults:
-  _posts
+  #_posts
   - scope:
       path: ""
       type: posts

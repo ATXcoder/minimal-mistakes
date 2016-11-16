@@ -89,8 +89,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ATXcoder"
-  google_plus      : "https://plus.google.com/+ThomasSloan"
+  github           : "ATXcoder"
+  google_plus      : "ThomasSloan"
   keybase          :
   instagram        :
   lastfm           :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/thomassloan"
+  twitter          : "thomassloan"
   vine             :
   weibo            :
   xing             :
@@ -233,7 +233,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  _posts
   - scope:
       path: ""
       type: posts

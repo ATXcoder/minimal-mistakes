@@ -1,13 +1,16 @@
 {
     "language": "en_US",
     "ignoreWordsList": [
+        "Cheatsheet",
         "Chromebook",
         "ReaspberryPi",
         "plugins",
         "blog",
-        "Cheatsheet",
         "GitHub",
-        "Metadata"
+        "Metadata",
+        "Arduinos",
+        "MagPi",
+        "RaspberryPi"
     ],
     "documentTypes": [
         "markdown",

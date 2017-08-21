@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "The Blog Of Tom"
 title_separator          : "-"
 name                     : "Thomas Sloan"
-description              : "An amazing website."
+description              : "Blogging about my misadventures in all things geek."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "atxcoder/atxcoder.github.io"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : ThomasSloan
 facebook:
   username               :
   app_id                 :
@@ -89,14 +89,9 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-<<<<<<< HEAD
-  github           : "ATXcoder"
-  google_plus      : "ThomasSloan"
-=======
-  github           :
+  github           : "ATXCoder"
   gitlab           :
-  google_plus      :
->>>>>>> upstream/master
+  google_plus      : "ThomasSloan"
   keybase          :
   instagram        :
   lastfm           :
